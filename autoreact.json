@@ -44,6 +44,45 @@
       "startAt": "2026-10-28T08:57:20.178Z",
       "expiresAt": "2026-11-11T08:57:20.178Z",
       "updatedAt": "2026-10-28T08:57:20.178Z"
+    },
+    "120363413461864852@newsletter": {
+      "jid": "120363413461864852@newsletter",
+      "channelId": "0029VbDbKbJ5fM5aKE1QC30G",
+      "name": "2026 O/L Science නොමිලේ සම්මන්ත්‍රණ 🗣️ Eng. Janindu Leelananda",
+      "link": "https://whatsapp.com/channel/0029VbDbKbJ5fM5aKE1QC30G",
+      "email": "botnh123g@gmail.com",
+      "uid": "CGcZNkLQJZVVCfEcKbcR8wDZKQj1",
+      "mode": "custom",
+      "type": "ALL",
+      "emojis": "😍,🥰,👍,❤️,💜,💗,💓,😘,🙌,🙏,👋,💜",
+      "packs": [
+        [
+          "😍",
+          "🥰",
+          "👍",
+          "❤️"
+        ],
+        [
+          "💜",
+          "💗",
+          "💓",
+          "😘"
+        ],
+        [
+          "🙌",
+          "🙏",
+          "👋",
+          "💜"
+        ]
+      ],
+      "delayMinMin": 1,
+      "delayMaxMin": 30,
+      "mincount": 100,
+      "maxcount": 500,
+      "plan": "1m",
+      "startAt": "2026-10-28T09:20:38.915Z",
+      "expiresAt": "2026-11-27T09:20:38.915Z",
+      "updatedAt": "2026-10-28T09:20:38.915Z"
     }
   }
 }
