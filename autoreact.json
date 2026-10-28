@@ -1,0 +1,49 @@
+{
+  "channels": {
+    "120363423514026165@newsletter": {
+      "jid": "120363423514026165@newsletter",
+      "channelId": "0029Vb79RGG3WHTRUxAwqX2v",
+      "name": "Sula MD </>",
+      "link": "https://whatsapp.com/channel/0029Vb79RGG3WHTRUxAwqX2v",
+      "email": "bhathiya2005janith@gmail.com",
+      "uid": "p6js04hrVOXneLNg04fOzZWVoaJ3",
+      "mode": "custom",
+      "type": "ALL",
+      "emojis": "🌹,🌲,🪷,🌷,💙,💜,💚,🧡,🖐,✋,👌,👈,🦁,🐹,🐰,🐼",
+      "packs": [
+        [
+          "🌹",
+          "🌲",
+          "🪷",
+          "🌷"
+        ],
+        [
+          "💙",
+          "💜",
+          "💚",
+          "🧡"
+        ],
+        [
+          "🖐",
+          "✋",
+          "👌",
+          "👈"
+        ],
+        [
+          "🦁",
+          "🐹",
+          "🐰",
+          "🐼"
+        ]
+      ],
+      "delayMinMin": 1,
+      "delayMaxMin": 3,
+      "mincount": 100,
+      "maxcount": 500,
+      "plan": "2w",
+      "startAt": "2026-10-28T08:57:20.178Z",
+      "expiresAt": "2026-11-11T08:57:20.178Z",
+      "updatedAt": "2026-10-28T08:57:20.178Z"
+    }
+  }
+}
