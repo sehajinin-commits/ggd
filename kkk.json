@@ -1,12 +1,12 @@
 {
-  "encoded_key": "d4K%e0IKZpu+++++muYYZQTfF*oqOL@6agX@*87dCT3Q+3RISi$%kd5pE$!!1ESLZ",
+  "key": "AADUz7joEDxKZV9_S9WJj54GBIlh6BR0qyGMkWSHXXwg_____wzHQZ2sEQ8j",
   "apps": [
     {
-      "name": "conveter-o1whhn",
+      "name": "conveter",
       "url": "hkcNllztfkwbaN3zv9b99v04c71jaauPk1wbrbyjkcBBVelrra"
     },
     {
-      "name": "downapi-5ysgc4",
+      "name": "downapi",
       "url": "hkcNllztfkwbaN4658Ox4zP3z918cmeo71slzjukvBBVelrra"
     },
     {
@@ -14,15 +14,15 @@
       "url": "hkcNllztfkwbaN9b8875vcv9091PrxkmBBVelrra"
     },
     {
-      "name": "pairmini-cf1hpv",
+      "name": "pairmini",
       "url": "hkcNllztfkwbaNvPn3Pvz996P71ylaPnc1sjshwszlBBVelrra"
     },
     {
-      "name": "settingsapi-nvjv1a",
+      "name": "settingsapi",
       "url": "hkcNllztfkwbaN3689O30O856z1zPydyj1slzemjsrrbeBBVelrra"
     },
     {
-      "name": "textmini-diq59x",
+      "name": "textmini",
       "url": "hkcNllztfkwbaNPOO4550Pvc8O1i37qsv1sjshribrBBVelrra"
     }
   ]
