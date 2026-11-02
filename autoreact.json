@@ -9,7 +9,7 @@
       "uid": "p6js04hrVOXneLNg04fOzZWVoaJ3",
       "mode": "custom",
       "type": "ALL",
-      "emojis": "🌹,🌲,🪷,🌷,💙,💜,💚,🧡,🖐,✋,👌,👈,🦁,🐹,🐰,🐼",
+      "emojis": "🌹,🌲,🪷,🌷,💙,💜,💚,🧡,🖐,✋,👌,👈,🦁,🐹,🐰,🐼,💣,💤,💭,💬",
       "packs": [
         [
           "🌹",
@@ -34,16 +34,22 @@
           "🐹",
           "🐰",
           "🐼"
+        ],
+        [
+          "💣",
+          "💤",
+          "💭",
+          "💬"
         ]
       ],
       "delayMinMin": 1,
       "delayMaxMin": 3,
       "mincount": 100,
-      "maxcount": 500,
-      "plan": "2w",
+      "maxcount": 2300,
+      "plan": "1m",
       "startAt": "2026-10-28T08:57:20.178Z",
-      "expiresAt": "2026-11-11T08:57:20.178Z",
-      "updatedAt": "2026-10-28T08:57:20.178Z"
+      "expiresAt": "2026-12-11T08:57:20.178Z",
+      "updatedAt": "2026-11-02T17:44:20.618Z"
     },
     "120363413461864852@newsletter": {
       "jid": "120363413461864852@newsletter",
