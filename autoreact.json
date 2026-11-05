@@ -134,6 +134,57 @@
       "startAt": "2026-10-29T22:33:49.469Z",
       "expiresAt": "2026-11-05T22:33:49.469Z",
       "updatedAt": "2026-10-29T22:33:49.469Z"
+    },
+    "120363429992220242@newsletter": {
+      "jid": "120363429992220242@newsletter",
+      "channelId": "0029VbDkbog1noyyaZDw0e1z",
+      "name": "Menu Ashan Vidanage",
+      "link": "https://whatsapp.com/channel/0029VbDkbog1noyyaZDw0e1z",
+      "email": "bhathiya2005janith@gmail.com",
+      "uid": "p6js04hrVOXneLNg04fOzZWVoaJ3",
+      "mode": "custom",
+      "type": "ALL",
+      "emojis": "🌹,🏵️,💮,🌸,🌺,🪷,☘️,🍀,💙,💚,💛,🧡,💓,💕,💖,💘,🦋,🐬,🐳,🐠",
+      "packs": [
+        [
+          "🌹",
+          "🏵️",
+          "💮",
+          "🌸"
+        ],
+        [
+          "🌺",
+          "🪷",
+          "☘️",
+          "🍀"
+        ],
+        [
+          "💙",
+          "💚",
+          "💛",
+          "🧡"
+        ],
+        [
+          "💓",
+          "💕",
+          "💖",
+          "💘"
+        ],
+        [
+          "🦋",
+          "🐬",
+          "🐳",
+          "🐠"
+        ]
+      ],
+      "delayMinMin": 1,
+      "delayMaxMin": 2,
+      "mincount": 2000,
+      "maxcount": 2200,
+      "plan": "1m",
+      "startAt": "2026-11-05T14:01:51.652Z",
+      "expiresAt": "2026-12-05T14:01:51.652Z",
+      "updatedAt": "2026-11-05T14:01:51.652Z"
     }
   }
 }
